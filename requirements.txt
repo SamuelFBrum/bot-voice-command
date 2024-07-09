@@ -1,0 +1,4 @@
+# voice_assistant/requirements.txt
+
+SpeechRecognition
+Pyttsx3
